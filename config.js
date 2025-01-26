@@ -2,7 +2,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const config = {
-	SESSION_ID: process.env.SESSION_ID || 'XSTRO_13_48_99',
+	SESSION_ID: process.env.SESSION_ID || 'XSTRO_11_12_43',
 	SUDO: process.env.SUDO || '2349021204279',
 	API_ID: process.env.API_ID || '',
 	BOT_INFO: process.env.BOT_INFO || 'αѕтяσχ11;χѕтяσ м∂',
